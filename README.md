@@ -1,6 +1,1 @@
-#include < stdio.h>
-update count = 1
-
-
- :wq
-df
+什么时候我能成为杰出开源贡献者啊, 可惜我什么也不会捏!
